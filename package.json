@@ -2,5 +2,30 @@
   "dependencies": {
     "ejs": "^3.1.8",
     "express": "^4.18.1"
-  }
+  },
+  "name": "week3.practice.code",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InheePark/Week3.Practice.Code.git"
+  },
+  "keywords": [
+    "COMP229.005",
+    "MEAN",
+    "EJS",
+    "Express",
+    "NodeJS"
+  ],
+  "author": "Inhee Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InheePark/Week3.Practice.Code/issues"
+  },
+  "homepage": "https://github.com/InheePark/Week3.Practice.Code#readme"
 }
