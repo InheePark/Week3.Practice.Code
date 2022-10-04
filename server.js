@@ -23,7 +23,7 @@ http.createServer((req, res) => {
         'Content-Type': 'text/plain'
         // content type of plain text
     });
-    res.write('this is a response from the server \n\n');
+    res.write('this is a response from the server!! \n\n');
     // res.write -> writing (outputing) to the server
     res.end('ending server');
     // res.end -> ending the server
