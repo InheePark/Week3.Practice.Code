@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "connect": "^3.7.0",
     "ejs": "^3.1.8",
     "express": "^4.18.1"
   },
   "name": "week3.practice.code",
   "version": "1.0.0",
   "description": "practice",
-  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
